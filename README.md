@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:velajuel05@gmail.com">
+  <a href="mailto:mauladifadilah05@gmail.com">
     <img src="https://img.shields.io/badge/Email-velajuel05%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=EA4335"/>
   </a>
   <a href="https://github.com/AstralClock">
