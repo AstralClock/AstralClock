@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Mauladi 👋</h1>
 
 <p align="center">
-  Software Engineering Technology student · Backend & CV Engineer · Coding Instructor
+  Software Engineering Technology student · Backend & CV Engineer · System Design
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 I'm a final-year D-IV Software Engineering Technology student at **IPB University**, focused on backend systems and computer vision. I work part-time as a **coding instructor** teaching Python and visual programming, which keeps me sharp at breaking down complex ideas simply.
 
-I care about building things that actually work — not just demo-ready, but production-aware. My sweet spot is the intersection of clean backend architecture and applied ML pipelines.
+I care about building things that actually work not just demo-ready, but production-aware. My sweet spot is the intersection of clean backend architecture and applied ML pipelines.
 
 ---
 
@@ -50,7 +50,7 @@ I care about building things that actually work — not just demo-ready, but pro
 
 ---
 
-## Featured Projects
+## Recently Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
