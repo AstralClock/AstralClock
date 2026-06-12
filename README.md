@@ -56,7 +56,7 @@ I care about building things that actually work not just demo-ready, but product
 |--------|-------------|-------|
 | **ANPR System** | Automatic Number Plate Recognition pipeline with preprocessing (CLAHE, adaptive thresholding) + OCR | YOLOv8, EasyOCR, OpenCV |
 | **Smart Playlist Generator** | Content-based music recommendation using cosine similarity on hybrid audio+genre features | PySpark, Python |
-| **fph-compro** | Client-facing company profile with CMS integration | Next.js, Sanity v3, TypeScript |
+| **fph-compro** | Client-facing company profile with CMS integration | Next.js, Strapi, TypeScript |
 | **kedai_syaban_backend** | RESTful backend for a local F&B client | Java, Spring Boot |
 
 ---
