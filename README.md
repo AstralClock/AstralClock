@@ -50,7 +50,7 @@ I care about building things that actually work not just demo-ready, but product
 
 ---
 
-## Recently Projects
+## Recent Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
