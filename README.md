@@ -78,7 +78,7 @@ I care about building things that actually work not just demo-ready, but product
 ---
 
 <p align="center">
-  <i>Open to internship opportunities in backend engineering or computer vision. Feel free to reach out.</i>
+  <i>Feel free to reach out.</i>
 </p>
 
 
