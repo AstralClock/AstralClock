@@ -73,6 +73,7 @@ I care about building things that actually work not just demo-ready, but product
 <p align="center">
   <img src="https://img.shields.io/github/stars/AstralClock?style=for-the-badge&logo=github&color=yellow"/>
   <img src="https://img.shields.io/github/followers/AstralClock?style=for-the-badge&logo=github&color=blue"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AstralClock&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
