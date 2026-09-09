@@ -63,7 +63,7 @@ I care about building things that actually work not just demo-ready, but product
 
 ## Currently Working On
 
-- Preparing for a **6-month software engineering internship** (Semester 7)
+- Internshi at Suitmedia Digital Agency as Software Engineer
 - Deepening knowledge in **distributed systems** and **ML deployment**
 
 ---
