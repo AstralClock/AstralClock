@@ -71,8 +71,8 @@ I care about building things that actually work not just demo-ready, but product
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AstralClock&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstralClock&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://img.shields.io/github/stars/AstralClock?style=for-the-badge&logo=github&color=yellow"/>
+  <img src="https://img.shields.io/github/followers/AstralClock?style=for-the-badge&logo=github&color=blue"/>
 </p>
 
 ---
